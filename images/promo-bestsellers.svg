@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#431226"/>
+      <stop offset="1" stop-color="#1a050d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.62" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#f05a7a" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#f05a7a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#glow)"/>
+  <circle cx="0" cy="37" r="1.5" fill="white" opacity="0.7"/><circle cx="100" cy="37" r="0.8999999999999999" fill="white" opacity="0.4"/><circle cx="73" cy="26" r="2.5" fill="white" opacity="0.7"/><circle cx="27" cy="26" r="1.5" fill="white" opacity="0.4"/><circle cx="46" cy="15" r="3.5" fill="white" opacity="0.7"/><circle cx="54" cy="15" r="2.1" fill="white" opacity="0.4"/><circle cx="19" cy="4" r="1.5" fill="white" opacity="0.7"/><circle cx="81" cy="4" r="0.8999999999999999" fill="white" opacity="0.4"/><circle cx="92" cy="93" r="2.5" fill="white" opacity="0.7"/><circle cx="8" cy="93" r="1.5" fill="white" opacity="0.4"/><circle cx="65" cy="82" r="3.5" fill="white" opacity="0.7"/><circle cx="35" cy="82" r="2.1" fill="white" opacity="0.4"/>
+  <g transform="rotate(-10 400 220)" opacity="0.8"><polygon points="400,145.0 365.0,245.0 400,295.0 400,291.0" fill="#f05a7a" opacity="0.55"/><polygon points="400,145.0 400,291.0 435.0,245.0" fill="#ffffff" opacity="0.85"/><polygon points="400,151.0 389.5,245.0 400,289.0" fill="white" opacity="0.5"/></g><g transform="rotate(18 320 300)" opacity="0.55"><polygon points="320,245.0 294.0,318.3333333333333 320,355.0 320,351.0" fill="#f05a7a" opacity="0.55"/><polygon points="320,245.0 320,351.0 346.0,318.3333333333333" fill="#ffffff" opacity="0.85"/><polygon points="320,251.0 312.2,318.3333333333333 320,349.0" fill="white" opacity="0.5"/></g><g transform="rotate(-25 485 290)" opacity="0.4"><polygon points="485,242.5 463.0,305.8333333333333 485,337.5 485,333.5" fill="#ffffff" opacity="0.55"/><polygon points="485,242.5 485,333.5 507.0,305.8333333333333" fill="#f05a7a" opacity="0.85"/><polygon points="485,248.5 478.4,305.8333333333333 485,331.5" fill="white" opacity="0.5"/></g>
+  <rect x="0" y="470" width="800" height="130" fill="rgba(0,0,0,0.38)"/>
+</svg>

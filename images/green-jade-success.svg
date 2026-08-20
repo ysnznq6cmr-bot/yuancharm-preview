@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14402e"/>
+      <stop offset="1" stop-color="#07180f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.38" r="0.55">
+      <stop offset="0" stop-color="#4fd99a" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#4fd99a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <rect width="600" height="600" fill="url(#glow)"/>
+  <circle cx="0" cy="37" r="1.5" fill="white" opacity="0.7"/><circle cx="100" cy="37" r="0.8999999999999999" fill="white" opacity="0.4"/><circle cx="73" cy="26" r="2.5" fill="white" opacity="0.7"/><circle cx="27" cy="26" r="1.5" fill="white" opacity="0.4"/><circle cx="46" cy="15" r="3.5" fill="white" opacity="0.7"/><circle cx="54" cy="15" r="2.1" fill="white" opacity="0.4"/><circle cx="19" cy="4" r="1.5" fill="white" opacity="0.7"/><circle cx="81" cy="4" r="0.8999999999999999" fill="white" opacity="0.4"/><circle cx="92" cy="93" r="2.5" fill="white" opacity="0.7"/><circle cx="8" cy="93" r="1.5" fill="white" opacity="0.4"/><circle cx="65" cy="82" r="3.5" fill="white" opacity="0.7"/><circle cx="35" cy="82" r="2.1" fill="white" opacity="0.4"/>
+  <g transform="rotate(-12 300 190)" opacity="0.95"><polygon points="300,95.0 255.0,221.66666666666666 300,285.0 300,281.0" fill="#4fd99a" opacity="0.55"/><polygon points="300,95.0 300,281.0 345.0,221.66666666666666" fill="#c8ffe2" opacity="0.85"/><polygon points="300,101.0 286.5,221.66666666666666 300,279.0" fill="white" opacity="0.5"/></g><g transform="rotate(15 380 250)" opacity="0.7"><polygon points="380,175.0 345.0,275.0 380,325.0 380,321.0" fill="#4fd99a" opacity="0.55"/><polygon points="380,175.0 380,321.0 415.0,275.0" fill="#c8ffe2" opacity="0.85"/><polygon points="380,181.0 369.5,275.0 380,319.0" fill="white" opacity="0.5"/></g><g transform="rotate(-28 215 255)" opacity="0.6"><polygon points="215,190.0 185.0,276.6666666666667 215,320.0 215,316.0" fill="#4fd99a" opacity="0.55"/><polygon points="215,190.0 215,316.0 245.0,276.6666666666667" fill="#c8ffe2" opacity="0.85"/><polygon points="215,196.0 206.0,276.6666666666667 215,314.0" fill="white" opacity="0.5"/></g><g transform="rotate(8 330 140)" opacity="0.5"><polygon points="330,90.0 306.0,156.66666666666666 330,190.0 330,186.0" fill="#c8ffe2" opacity="0.55"/><polygon points="330,90.0 330,186.0 354.0,156.66666666666666" fill="#4fd99a" opacity="0.85"/><polygon points="330,96.0 322.8,156.66666666666666 330,184.0" fill="white" opacity="0.5"/></g><g transform="rotate(-18 250 145)" opacity="0.45"><polygon points="250,105.0 230.0,158.33333333333334 250,185.0 250,181.0" fill="#c8ffe2" opacity="0.55"/><polygon points="250,105.0 250,181.0 270.0,158.33333333333334" fill="#4fd99a" opacity="0.85"/><polygon points="250,111.0 244.0,158.33333333333334 250,179.0" fill="white" opacity="0.5"/></g>
+  <rect x="0" y="452" width="600" height="148" fill="rgba(0,0,0,0.35)"/>
+  <line x1="190" y1="478" x2="410" y2="478" stroke="#4fd99a" stroke-width="2" opacity="0.8"/>
+  <text x="300" y="516" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="700" fill="#ffffff">Green Jade Career Bracelet</text>
+  <text x="300" y="552" text-anchor="middle" font-family="Georgia,serif" font-size="18" letter-spacing="4" fill="#c8ffe2">Green Jade</text>
+  <text x="300" y="586" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="13" fill="rgba(255,255,255,0.55)">yuancharm · Natural crystal · Hand-finished</text>
+</svg>

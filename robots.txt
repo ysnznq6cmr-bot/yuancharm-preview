@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.yuancharm.com
+Sitemap: https://www.yuancharm.com/sitemap.xml
