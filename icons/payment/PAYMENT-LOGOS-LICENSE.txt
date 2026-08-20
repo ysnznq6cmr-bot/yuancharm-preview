@@ -1,0 +1,5 @@
+The payment SVG marks in this directory are sourced from Payrexx payment-logos:
+https://github.com/payrexx/payment-logos
+
+License: CC0 1.0 Universal.
+The files are used locally as monochrome footer marks and are not fetched at runtime.

@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[47257,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js"],"ClientPageRoot"]
+3:I[90454,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js","/yuancharm-preview/_next/static/chunks/2753p3c1od_o6.js","/yuancharm-preview/_next/static/chunks/39dx7qw1hpoow.js"],"default"]
+6:I[97367,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[97367,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js"],"ViewportBoundary"]
+c:I[97367,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js"],"MetadataBoundary"]
+d:I[27201,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js"],"IconMark"]
+f:I[39756,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js"],"default"]
+10:I[37457,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js"],"default"]
+a:X
+12:X
+12:C
+0:{"buildId":"sOsLEkB63A_eURnz-KfLw","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/yuancharm-preview/_next/static/chunks/2753p3c1od_o6.js","async":true}],["$","script","script-1",{"src":"/yuancharm-preview/_next/static/chunks/39dx7qw1hpoow.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#e8e7e3"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"yuancharm | Natural Crystal Jewelry"}],["$","meta","1",{"name":"description","content":"Modern Eastern talisman jewelry made with natural materials and thoughtful design. 30-day returns and free U.S. shipping on orders of $77 or more."}],["$","link","2",{"rel":"manifest","href":"/yuancharm-preview/manifest.webmanifest"}],["$","link","3",{"rel":"canonical","href":"https://www.yuancharm.com/"}],["$","meta","4",{"property":"og:title","content":"yuancharm | Natural Crystal Jewelry"}],["$","meta","5",{"property":"og:description","content":"Every stone carries a story of its own. Handcrafted natural crystal bracelets made for everyday wear."}],["$","meta","6",{"property":"og:url","content":"https://www.yuancharm.com/"}],["$","meta","7",{"property":"og:site_name","content":"yuancharm"}],["$","meta","8",{"property":"og:locale","content":"en_US"}],["$","meta","9",{"property":"og:image","content":"https://www.yuancharm.com/images/og.svg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"yuancharm natural crystal jewelry"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"yuancharm | Natural Crystal Bracelets"}],["$","meta","16",{"name":"twitter:description","content":"Natural crystal bracelets, handcrafted with care and designed for everyday wear."}],["$","meta","17",{"name":"twitter:image","content":"https://www.yuancharm.com/images/og.svg"}],["$","link","18",{"rel":"icon","href":"/yuancharm-preview/favicon.ico"}],["$","$Ld","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@e","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lf",null,{"parallelRouterKey":"children","template":["$","$L10",null,{}]}]]}],"isPartial":"$@11","staleTime":"$a","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+4:{}
+5:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
+14:true
+a:300
+a:C
+13:0
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"

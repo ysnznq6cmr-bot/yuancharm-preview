@@ -1,0 +1,5 @@
+The social SVG marks in this directory are sourced from Simple Icons:
+https://github.com/simple-icons/simple-icons
+
+License: CC0 1.0 Universal.
+The files are used locally as monochrome brand marks and are not fetched at runtime.

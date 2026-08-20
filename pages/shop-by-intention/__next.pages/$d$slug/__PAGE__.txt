@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:I[6803,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js","/yuancharm-preview/_next/static/chunks/39dx7qw1hpoow.js"],"AnnouncementBar"]
+3:I[2971,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js","/yuancharm-preview/_next/static/chunks/39dx7qw1hpoow.js"],"default"]
+4:I[13642,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js","/yuancharm-preview/_next/static/chunks/39dx7qw1hpoow.js"],"default"]
+5:I[97367,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[97367,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js"],"ViewportBoundary"]
+b:I[97367,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js"],"MetadataBoundary"]
+9:X
+1f:X
+1f:C
+0:{"buildId":"sOsLEkB63A_eURnz-KfLw","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","$L3",null,{}],["$","main",null,{"id":"main-content","className":"flex min-h-screen flex-col bg-[var(--em-paper)] ","children":["$","div",null,{"className":"mx-auto w-full max-w-3xl px-4 py-10 md:px-8 md:py-16","children":[["$","h1",null,{"className":"font-heading text-3xl text-[#1a1a2e] md:text-4xl","children":"Shop by Intention"}],["$","p",null,{"className":"yu-editorial-copy mt-4 text-[1.1rem] leading-8 text-[var(--em-text-body)]","children":"Intention is a way to browse—not a promise. Choose the color, stone, or message that feels right for your current season."}],[["$","section","Wealth & Abundance",{"className":"mt-8","children":[["$","h2",null,{"className":"font-heading text-xl text-[#1a1a2e]","children":"Wealth & Abundance"}],["$","div",null,{"className":"yu-editorial-copy mt-3 space-y-3 text-[1.1rem] leading-[1.75] text-[var(--em-text-body)]","children":[["$","p","0",{"children":"Warm citrine and golden tones for an optimistic reminder of growth and possibility."}]]}]]}],["$","section","Love & Connection",{"className":"mt-8","children":[["$","h2",null,{"className":"font-heading text-xl text-[#1a1a2e]","children":"Love & Connection"}],["$","div",null,{"className":"yu-editorial-copy mt-3 space-y-3 text-[1.1rem] leading-[1.75] text-[var(--em-text-body)]","children":[["$","p","0",{"children":"Soft rose quartz and gentle colors for meaningful gifts, connection, and self-kindness."}]]}]]}],["$","section","Protection",{"className":"mt-8","children":[["$","h2",null,{"className":"font-heading text-xl text-[#1a1a2e]","children":"Protection"}],["$","div",null,{"className":"yu-editorial-copy mt-3 space-y-3 text-[1.1rem] leading-[1.75] text-[var(--em-text-body)]","children":[["$","p","0",{"children":"Grounded obsidian and deeper tones for a composed, understated everyday piece."}]]}]]}],["$","section","Calm & Focus",{"className":"mt-8","children":[["$","h2",null,{"className":"font-heading text-xl text-[#1a1a2e]","children":"Calm & Focus"}],["$","div",null,{"className":"yu-editorial-copy mt-3 space-y-3 text-[1.1rem] leading-[1.75] text-[var(--em-text-body)]","children":[["$","p","0",{"children":"Amethyst and clear quartz for quiet color, study, work, and reflective moments."}]]}]]}],["$","section","Career & Growth",{"className":"mt-8","children":[["$","h2",null,{"className":"font-heading text-xl text-[#1a1a2e]","children":"Career & Growth"}],["$","div",null,{"className":"yu-editorial-copy mt-3 space-y-3 text-[1.1rem] leading-[1.75] text-[var(--em-text-body)]","children":[["$","p","0",{"children":"Green jade and polished designs for a steady, confident personal style."}]]}]]}],["$","section","Study & Clarity",{"className":"mt-8","children":[["$","h2",null,{"className":"font-heading text-xl text-[#1a1a2e]","children":"Study & Clarity"}],["$","div",null,{"className":"yu-editorial-copy mt-3 space-y-3 text-[1.1rem] leading-[1.75] text-[var(--em-text-body)]","children":[["$","p","0",{"children":"Clean, luminous stones for a simple reminder to focus on what matters."}]]}]]}]],false]}]}],["$","$L4",null,{}]],[["$","script","script-0",{"src":"/yuancharm-preview/_next/static/chunks/39dx7qw1hpoow.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#e8e7e3"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Shop by Intention | yuancharm"}],["$","meta","1",{"name":"description","content":"Browse natural crystal bracelets by the meaning and mood you want to carry with you."}],["$","link","2",{"rel":"manifest","href":"/yuancharm-preview/manifest.webmanifest"}],["$","link","3",{"rel":"canonical","href":"https://www.yuancharm.com/"}],["$","meta","4",{"property":"og:title","content":"yuancharm | Natural Crystal Jewelry"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]}]}],"$L1b"]}],"isPartial":"$@1c","staleTime":"$9","varyParams":null},{"rsc":"$L1d","isPartial":"$@1e","staleTime":"$9","varyParams":"$1f"},{"rsc":"$L20","isPartial":"$@21","staleTime":"$9","varyParams":"$1f"}],"isUpgradeableISRFallback":false,"a":"$@22","rootVaryParams":null,"needsRuntimeRequest":"$@23"}
+24:I[27201,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js"],"IconMark"]
+25:I[39756,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js"],"default"]
+26:I[37457,["/yuancharm-preview/_next/static/chunks/24daay00j4i5-.js","/yuancharm-preview/_next/static/chunks/2hwg5jfxietoh.js"],"default"]
+7:null
+c:["$","meta","5",{"property":"og:description","content":"Every stone carries a story of its own. Handcrafted natural crystal bracelets made for everyday wear."}]
+d:["$","meta","6",{"property":"og:url","content":"https://www.yuancharm.com/"}]
+e:["$","meta","7",{"property":"og:site_name","content":"yuancharm"}]
+f:["$","meta","8",{"property":"og:locale","content":"en_US"}]
+10:["$","meta","9",{"property":"og:image","content":"https://www.yuancharm.com/images/og.svg"}]
+11:["$","meta","10",{"property":"og:image:width","content":"1200"}]
+12:["$","meta","11",{"property":"og:image:height","content":"630"}]
+13:["$","meta","12",{"property":"og:image:alt","content":"yuancharm natural crystal jewelry"}]
+14:["$","meta","13",{"property":"og:type","content":"website"}]
+15:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
+16:["$","meta","15",{"name":"twitter:title","content":"yuancharm | Natural Crystal Bracelets"}]
+17:["$","meta","16",{"name":"twitter:description","content":"Natural crystal bracelets, handcrafted with care and designed for everyday wear."}]
+18:["$","meta","17",{"name":"twitter:image","content":"https://www.yuancharm.com/images/og.svg"}]
+19:["$","link","18",{"rel":"icon","href":"/yuancharm-preview/favicon.ico"}]
+1a:["$","$L24","19",{}]
+1b:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1d:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+20:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+23:true
+9:300
+9:C
+22:0
+1c:"$undefined"
+1e:"$undefined"
+21:"$undefined"
+8:"$undefined"

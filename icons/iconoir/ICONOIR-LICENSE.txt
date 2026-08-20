@@ -1,0 +1,5 @@
+The SVG utility icons in this directory are sourced from Iconoir:
+https://github.com/iconoir-icons/iconoir
+
+License: MIT.
+The files are used locally as monochrome interface glyphs and are not fetched at runtime.
